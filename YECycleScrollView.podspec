@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   # 作者信息哦
   s.author           = { “yangyongen” => “280798744@qq.com” }
   # 项目托管地址，因为我的项目在github上，所以下面这么写
-  s.source           = { :git => "https://github.com/muyang00/YECycleScrollView.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/muyang00/YECycleScrollView.git", :tag => “0.0.1” }
   # 最低支持的iOS版本
   s.platform     = :ios, '8.0'
   # 是否使用ARC了
